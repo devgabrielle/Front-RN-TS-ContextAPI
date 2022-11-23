@@ -21,7 +21,7 @@ const Home: React.FC = () => {
       </TouchableOpacity>
     </View>
   );
-}
+};
 
 const styles = StyleSheet.create({
 
